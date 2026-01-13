@@ -53,7 +53,7 @@
           class="text-xl md:text-2xl font-light text-gray-300 mb-8 slide-up"
           style="animation-delay: 0.4s"
         >
-          Fine Art & Portrait Photography
+          Portrait Photography
         </p>
       </div>
       <div class="overflow-hidden">
