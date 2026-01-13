@@ -13,4 +13,17 @@ export default defineNuxtConfig({
   build: {
     transpile: ["swiper"],
   },
+  ssr: false, // For static site generation
+  app: {
+    baseURL: "/portrait_photo/", // Only needed if deploying to a project page
+  },
+  // SEO Configuration
+  site: {
+    url: "https://vishnukarthik29.github.io/portrait_photo/", // Replace with your GitHub username
+  },
+
+  // Disable robots.txt generation when using baseURL
+  robots: {
+    robotsTxt: false,
+  },
 });
