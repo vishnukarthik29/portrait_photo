@@ -12,10 +12,9 @@
       <div>
         <h2 class="text-5xl font-light mb-6">About Me</h2>
         <p class="text-gray-400 mb-4 leading-relaxed">
-          I'm a fine art and portrait photographer passionate about capturing
-          the essence of every moment. My work explores the intersection of
-          fantasy and reality, creating ethereal images that tell emotional
-          stories.
+          I'm a portrait photographer passionate about capturing the essence of
+          every moment. My work explores the intersection of fantasy and
+          reality, creating ethereal images that tell emotional stories.
         </p>
         <p class="text-gray-400 mb-6 leading-relaxed">
           With years of experience, I specialize in conceptual photography that
